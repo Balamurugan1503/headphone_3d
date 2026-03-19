@@ -4,6 +4,9 @@ Experience sound like never before — a cinematic, scroll-driven UI built for t
 
 ---
 
+## 🌐 Live Demo
+
+👉 https://headphone-3d.vercel.app/
 ## 🚀 Overview
 
 This project is a **futuristic product landing page** that showcases a next-generation spatial audio headphone using immersive animations and storytelling.
@@ -126,11 +129,6 @@ To deploy:
 Contributions are welcome!
 Feel free to fork the repo and submit a pull request.
 
----
-
-## 📜 License
-
-This project is open-source and available under the MIT License.
 
 ---
 
